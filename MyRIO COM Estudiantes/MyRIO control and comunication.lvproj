@@ -10,6 +10,7 @@
 	<Property Name="varPersistentID:{4AC181C4-EC1D-4DA6-8212-BF2BC765D936}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Pos_Actual_2_rad</Property>
 	<Property Name="varPersistentID:{6057ACDA-4845-492C-ACB1-9AEBAA57EEE5}" Type="Ref">/myRIO-1900/RT Variables.lvlib/HOMEV</Property>
 	<Property Name="varPersistentID:{819A2ABB-9DE6-4186-B3A9-36D9BBA52FA0}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Data</Property>
+	<Property Name="varPersistentID:{90925670-77EC-47A2-8FAE-3F88A0656176}" Type="Ref">/myRIO-1900/RT Variables.lvlib/TCI</Property>
 	<Property Name="varPersistentID:{9DBB538F-194F-4286-95A9-CE42DB76AED5}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Pos_Actual_1_rad</Property>
 	<Property Name="varPersistentID:{B48399D5-479E-47E6-9003-F894D709768F}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Setpoint</Property>
 	<Property Name="varPersistentID:{B62F436D-EB2B-43B9-80B2-EF1C27BBF881}" Type="Ref">/myRIO-1900/RT Variables.lvlib/TCD_Indep</Property>
