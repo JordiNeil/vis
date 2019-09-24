@@ -392,6 +392,7 @@ AddOutputFilter chunkFilter
 			<Item Name="PID.vi" Type="VI" URL="../PID.vi"/>
 		</Item>
 		<Item Name="MainIdent RT.vi" Type="VI" URL="../MainIdent RT.vi"/>
+		<Item Name="prueba_home.vi" Type="VI" URL="../prueba_home.vi"/>
 		<Item Name="Network Shared Variables.lvlib" Type="Library" URL="../Network Shared Variables.lvlib"/>
 		<Item Name="RT Variables.lvlib" Type="Library" URL="../RT Variables.lvlib"/>
 		<Item Name="CD1.ctl" Type="VI" URL="../../CD1.ctl"/>
