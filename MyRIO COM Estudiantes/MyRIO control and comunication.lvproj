@@ -46,6 +46,7 @@
 		<Item Name="prueba_bloques.vi" Type="VI" URL="../prueba_bloques.vi"/>
 		<Item Name="prueba_botones.vi" Type="VI" URL="../prueba_botones.vi"/>
 		<Item Name="prueba_casos.vi" Type="VI" URL="../prueba_casos.vi"/>
+		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="__closeStorageFromObject.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/Storage.llb/__closeStorageFromObject.vi"/>
