@@ -3,6 +3,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
+	<Property Name="varPersistentID:{07782C10-FDBA-46F5-8889-22858EAB190A}" Type="Ref">/myRIO-1900/RT Variables.lvlib/IrHome2</Property>
 	<Property Name="varPersistentID:{0DB74140-4CEB-4D6F-8639-DEE3BDE8F15F}" Type="Ref">/myRIO-1900/RT Variables.lvlib/RESET1V</Property>
 	<Property Name="varPersistentID:{1ED23697-D6C5-4F61-9946-D10363BF06DD}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Datos1_Recibidos</Property>
 	<Property Name="varPersistentID:{27A27AEE-321F-4B2C-B54A-D5B1972B04EF}" Type="Ref">/myRIO-1900/RT Variables.lvlib/RESET2V</Property>
@@ -14,6 +15,7 @@
 	<Property Name="varPersistentID:{B48399D5-479E-47E6-9003-F894D709768F}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Setpoint</Property>
 	<Property Name="varPersistentID:{B62F436D-EB2B-43B9-80B2-EF1C27BBF881}" Type="Ref">/myRIO-1900/RT Variables.lvlib/TCD_Indep</Property>
 	<Property Name="varPersistentID:{D5FBCE9C-1BB8-409B-948F-B5E45E0EB857}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Datos2_Recibidos</Property>
+	<Property Name="varPersistentID:{D90CDA9B-7A4E-434D-BFED-AE3989873FF0}" Type="Ref">/myRIO-1900/RT Variables.lvlib/IrHome1</Property>
 	<Property Name="varPersistentID:{DABFA9CA-CA93-4520-AB4E-8E2360D7BAF1}" Type="Ref">/myRIO-1900/RT Variables.lvlib/SetPointControl1</Property>
 	<Property Name="varPersistentID:{DF9D48D8-AE51-4788-956A-7CA04A9046C6}" Type="Ref">/myRIO-1900/RT Variables.lvlib/D2</Property>
 	<Property Name="varPersistentID:{E547E189-1B93-4230-8156-45164C117B0E}" Type="Ref">/myRIO-1900/Network Shared Variables.lvlib/error IO</Property>
