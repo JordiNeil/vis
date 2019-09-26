@@ -14,6 +14,7 @@
 	<Property Name="varPersistentID:{9DBB538F-194F-4286-95A9-CE42DB76AED5}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Pos_Actual_1_rad</Property>
 	<Property Name="varPersistentID:{B48399D5-479E-47E6-9003-F894D709768F}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Setpoint</Property>
 	<Property Name="varPersistentID:{B62F436D-EB2B-43B9-80B2-EF1C27BBF881}" Type="Ref">/myRIO-1900/RT Variables.lvlib/TCD_Indep</Property>
+	<Property Name="varPersistentID:{B943AFC8-A9BA-4FF0-BD43-A9B141AB18FE}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Datos_RT</Property>
 	<Property Name="varPersistentID:{D5FBCE9C-1BB8-409B-948F-B5E45E0EB857}" Type="Ref">/myRIO-1900/RT Variables.lvlib/Datos2_Recibidos</Property>
 	<Property Name="varPersistentID:{D90CDA9B-7A4E-434D-BFED-AE3989873FF0}" Type="Ref">/myRIO-1900/RT Variables.lvlib/IrHome1</Property>
 	<Property Name="varPersistentID:{DABFA9CA-CA93-4520-AB4E-8E2360D7BAF1}" Type="Ref">/myRIO-1900/RT Variables.lvlib/SetPointControl1</Property>
@@ -404,6 +405,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Untitled Library 4.lvlib" Type="Library" URL="../../Untitled Library 4.lvlib"/>
 		<Item Name="Untitled Library 5.lvlib" Type="Library" URL="../../Untitled Library 5.lvlib"/>
 		<Item Name="Untitled Library 6.lvlib" Type="Library" URL="../../Untitled Library 6.lvlib"/>
+		<Item Name="Datos_RT.ctl" Type="VI" URL="../../Datos_RT.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Configuration Manager.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/vis/Configuration Manager.vi"/>
