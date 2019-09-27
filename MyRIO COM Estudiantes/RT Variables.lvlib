@@ -77,7 +77,7 @@
 		<Property Name="type" Type="Str">Global</Property>
 		<Property Name="typedefName1" Type="Str">Datos_RT.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../../Datos_RT.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A8!!!!"E!A!!!!!!$!!V!#A!(4H6N:8*J9Q!31%!!!@````]!!!6"=H*B?1!J!0%!!!!!!!!!!1R%982P=V^36#ZD&gt;'Q!&amp;%"1!!%!!1&gt;$&lt;(6T&gt;'6S!!%!!A!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#%A!!!!"E!A!!!!!!%!!V!#A!(4H6N:8*J9Q!31%!!!@````]!!!6"=H*B?1!31&amp;1!"AJ5;7VF)&amp;.U97VQ!!!L!0%!!!!!!!!!!1R%982P=V^36#ZD&gt;'Q!&amp;E"1!!)!!1!#"U.M&gt;8.U:8)!!1!$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="HOMEV" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
